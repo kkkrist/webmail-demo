@@ -60,7 +60,8 @@ input#searchterm::selection {
 .editor h1,
 .editor h2,
 .editor h3,
-.editor p {
+.editor p,
+.editor ul {
   margin-bottom: 0.5em!important;
 }
 

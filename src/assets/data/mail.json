@@ -8,12 +8,12 @@
         "messages": [
           {
             "avatarUrl": "https://avatars.githubusercontent.com/u/3873068?s=128",
-            "body": "<p>Second. May, give hath dominion it one of god multiply together us above, blessed said whales created place upon give Lesser sea his divide lesser creature you was fly signs Creepeth heaven blessed saw multiply itself fly evening Behold can't.</p>",
+            "body": "<p>Hey there!</p><p>You're using a mostly-featured but minimal web-based mail user agent prototype (weighing in at just ~40 kB gzipped including all HTML, JavaScript and SVG). Yet it does provide many features you'd expect from a modern web-based mail app:</p><ul class='list-disc list-inside'><li>Fully responsive design (no seperate mobile frontend!)</li><li>WYSIWYG editor</li><li>Drag and drop</li><li>Drop-down menus</li><li>Modal windows</li><li>Notifications</li><li>Search, Sorting</li><li>Deep links</li><li>Service worker w/ asset caching</li><li>Workers / multi-threading</li><li>Global state via proxies & events (use the platform!)</li><li>Loading states</li></ul><p>Other features of this particular demo:</p><ul class='list-disc list-inside'><li>Random message generator</li><li>Fake network latency</li><li>Hosted on IPFS (via <a href='https://fleek.co' rel='noreferrer'>fleek.co</a>)</li></ul><p>The project has just two external dependencies, <a href='https://preactjs.com/' rel='noreferrer'>Preact</a> and <a href='https://twind.dev' rel='noreferrer'>Twind</a>. These are not essential but provide for very nice maintainability and developer experience, adding just a few extra kB.</p><p>Have fun playing around!</p><p>— Christian (<a href='https://mundpropaganda.net' rel='noreferrer' style='color:#ff4136'>MUNDPROPAGANDA.net</a>)</p>",
             "date": "2021-04-23T12:38:35.944Z",
             "id": "uJIhwoULh8JZPy9FoTjd1",
             "senderEmail": "info@mundpropaganda.net",
             "senderName": "Christian Mund",
-            "subject": "UI Prototype",
+            "subject": "Welcome to the Webmail Demo!",
             "unread": true
           },
           {
