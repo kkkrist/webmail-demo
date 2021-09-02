@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Mailboxes",
+    "folders": [
+      {
+        "icon": "MailboxIcon",
+        "name": "Inbox",
+        "messages": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3873068?s=128",
+            "body": "<p>Second. May, give hath dominion it one of god multiply together us above, blessed said whales created place upon give Lesser sea his divide lesser creature you was fly signs Creepeth heaven blessed saw multiply itself fly evening Behold can't.</p>",
+            "date": "2021-04-23T12:38:35.944Z",
+            "id": "uJIhwoULh8JZPy9FoTjd1",
+            "senderEmail": "info@mundpropaganda.net",
+            "senderName": "Christian Mund",
+            "subject": "UI Prototype",
+            "unread": true
+          },
+          {
+            "avatarUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.7HN5FdOMVF82tiyhQGNGFAHaHa%26pid%3DApi&f=1",
+            "body": "<p>Days great. Divided isn't our was and gathering. Firmament. Together. Saying was, of from so was multiply over Can't male saw thing signs beginning fly rule years.</p>",
+            "date": "2021-04-22T10:18:15.144Z",
+            "id": "n8dbYeOIfojkYn5BvgVLS",
+            "senderEmail": "rwm@aol.com",
+            "senderName": "Rainier Wolfcastlestonson-Mueller",
+            "subject": "You certainly won't believe what I'll tell you now",
+            "unread": true
+          }
+        ]
+      },
+      {
+        "icon": "PenIcon",
+        "messages": [],
+        "name": "Drafts"
+      },
+      {
+        "icon": "InboxIcon",
+        "messages": [],
+        "name": "Sent"
+      },
+      {
+        "icon": "ArchiveIcon",
+        "messages": [],
+        "name": "Archive"
+      },
+      {
+        "icon": "FolderIconX",
+        "messages": [],
+        "name": "Junk"
+      },
+      {
+        "icon": "TrashIcon",
+        "messages": [],
+        "name": "Trash"
+      }
+    ]
+  },
+  {
+    "name": "Folders",
+    "folders": [
+      {
+        "icon": "FolderIcon",
+        "messages": [],
+        "name": "Finance"
+      },
+      {
+        "icon": "FolderIcon",
+        "messages": [],
+        "name": "Friends"
+      },
+      {
+        "icon": "FolderIcon",
+        "messages": [],
+        "name": "Shopping"
+      }
+    ]
+  }
+]

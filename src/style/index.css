@@ -1,0 +1,104 @@
+* {
+	box-sizing: border-box;
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	background: #FAFAFA;
+	font-family: 'Helvetica Neue', arial, sans-serif;
+	font-weight: 400;
+	color: #444;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+input#searchterm::selection {
+  background-color: rgba(255,255,255, 0.5);
+}
+
+#app {
+	height: 100%;
+}
+
+.animation-appear {
+  animation: appear 0.075s ease-in-out forwards;
+}
+
+.animation-fade-down-in {
+  animation: fade-down-in 0.075s ease-in forwards;
+}
+
+.animation-fade-in {
+  animation: fade-in 0.075s linear forwards;
+}
+
+.editor a {
+  color: rgba(67,56,202,var(--tw-bg-opacity));
+  text-decoration: underline;
+}
+
+.editor blockquote {
+  border-left: 8px solid rgba(224,231,255,var(--tw-border-opacity));
+  padding-left: 0.75rem;
+}
+
+.editor h1 {
+  font-size: 2rem;
+}
+
+.editor h2 {
+  font-size: 1.5rem;
+}
+
+.editor h3 {
+  font-size: 1.25rem;
+}
+
+.editor h1,
+.editor h2,
+.editor h3,
+.editor p {
+  margin-bottom: 0.5em!important;
+}
+
+@keyframes appear {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes fade-down-in {
+  0% {
+    opacity: 0;
+    margin-top: -0.5rem;
+  }
+  100% {
+    opacity: 1;
+    margin-top: initial;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 0.2;
+  }
+}
+
+@media (min-width: 768px) {
+  #composer .editor {
+    height: inherit;
+  }
+}
