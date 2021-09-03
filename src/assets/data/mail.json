@@ -8,7 +8,7 @@
         "messages": [
           {
             "avatarUrl": "https://avatars.githubusercontent.com/u/3873068?s=128",
-            "body": "<p>Hey there!</p><p>You're using a mostly-featured but minimal web-based mail user agent prototype (weighing in at just ~40 kB gzipped including all HTML, JavaScript and SVG). Yet it does provide many features you'd expect from a modern web-based mail app:</p><ul class='list-disc list-inside'><li>Fully responsive design (no seperate mobile frontend!)</li><li>WYSIWYG editor</li><li>Drag and drop</li><li>Drop-down menus</li><li>Modal windows</li><li>Notifications</li><li>Search, Sorting</li><li>Deep links</li><li>Service worker w/ asset caching</li><li>Workers / multi-threading</li><li>Global state via proxies & events (use the platform!)</li><li>Loading states</li></ul><p>Other features of this particular demo:</p><ul class='list-disc list-inside'><li>Random message generator</li><li>Fake network latency</li><li>Hosted on IPFS (via <a href='https://fleek.co' rel='noreferrer'>fleek.co</a>)</li></ul><p>The project has just two external dependencies, <a href='https://preactjs.com/' rel='noreferrer'>Preact</a> and <a href='https://twind.dev' rel='noreferrer'>Twind</a>. These are not essential but provide for very nice maintainability and developer experience, adding just a few extra kB.</p><p>Have fun playing around!</p><p>— Christian (<a href='https://mundpropaganda.net' rel='noreferrer' style='color:#ff4136'>MUNDPROPAGANDA.net</a>)</p>",
+            "body": "<p>Hey there!</p><p>You're using a mostly-featured yet minimal web-based mail user agent prototype (weighing in at just ~40 kB gzipped including all HTML, JavaScript and SVG). It does provide many features you'd expect from a modern web-based mail app:</p><ul class='list-disc list-inside'><li>Fully responsive design (no seperate mobile frontend!)</li><li>WYSIWYG editor</li><li>Drag and drop</li><li>Drop-down menus</li><li>Modal windows</li><li>Notifications</li><li>Search, Sorting</li><li>Deep links</li><li>Service worker w/ asset caching</li><li>Workers / multi-threading</li><li>Global state via proxies & events (use the platform!)</li><li>Loading states</li></ul><p>Other features of this particular demo:</p><ul class='list-disc list-inside'><li>Random message generator</li><li>Fake network latency</li><li>Hosted on IPFS (via <a href='https://fleek.co' rel='noreferrer'>fleek.co</a>)</li></ul><p>The project has just two external dependencies, <a href='https://preactjs.com/' rel='noreferrer'>Preact</a> and <a href='https://twind.dev' rel='noreferrer'>Twind</a>. These are not essential but provide for very nice maintainability and developer experience, adding just a few extra kB.</p><p>Have fun playing around!</p><p>— Christian (<a href='https://mundpropaganda.net' rel='noreferrer' style='color:#ff4136'>MUNDPROPAGANDA.net</a>)</p>",
             "date": "2021-04-23T12:38:35.944Z",
             "id": "uJIhwoULh8JZPy9FoTjd1",
             "senderEmail": "info@mundpropaganda.net",
@@ -17,13 +17,13 @@
             "unread": true
           },
           {
-            "avatarUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.7HN5FdOMVF82tiyhQGNGFAHaHa%26pid%3DApi&f=1",
-            "body": "<p>Days great. Divided isn't our was and gathering. Firmament. Together. Saying was, of from so was multiply over Can't male saw thing signs beginning fly rule years.</p>",
+            "avatarUrl": "https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairSides&accessoriesType=Prescription02&hairColor=SilverGray&facialHairType=Blank&clotheType=CollarSweater&clotheColor=Black&eyeType=Side&eyebrowType=UnibrowNatural&mouthType=Serious&skinColor=Pale",
+            "body": "<p>Travel was once a means of being elsewhere, or of being nowhere. Today it is the only way we have of feeling that we are somewhere. At home, surrounded by information, by screens, I am no longer anywhere, but rather everywhere in the world at once, in the midst of a universal banality - a banality that is the same in every country. To arrive in a new city, or in a new language, is suddenly to find oneself here and nowhere else. The body rediscovers how to look. Delivered from images, it rediscovers the imagination.</p><p>— Jean</p>",
             "date": "2021-04-22T10:18:15.144Z",
             "id": "n8dbYeOIfojkYn5BvgVLS",
-            "senderEmail": "rwm@aol.com",
-            "senderName": "Rainier Wolfcastlestonson-Mueller",
-            "subject": "You certainly won't believe what I'll tell you now",
+            "senderEmail": "burt@burp.demo",
+            "senderName": "Jean B.",
+            "subject": "Re: travel",
             "unread": true
           }
         ]
