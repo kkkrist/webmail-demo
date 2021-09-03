@@ -27,6 +27,9 @@ const DisplayMessage = ({ isChild, isParent, folderName, message: m, url }) => {
   const msgRef = useRef()
 
   useEffect(() => {
+    document.title = `${document.title} → ${
+      m.subject.length < 30 ? m.subject : m.subject.substr(0, 30) + '…'
+    }`
     msgRef.current?.scrollIntoView({ behavior: 'smooth' })
   })
 

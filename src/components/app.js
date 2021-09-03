@@ -1,6 +1,6 @@
 import { createHashHistory } from 'history'
 import { h } from 'preact'
-import { useState } from 'preact/hooks'
+import { useEffect, useState } from 'preact/hooks'
 import { Router } from 'preact-router'
 import 'twind/shim'
 
@@ -13,7 +13,15 @@ import Mail from '../routes/mail'
 
 const App = () => {
   const [menuOpen, setMenuOpen] = useState(false)
-  const [url, setUrl] = useState()
+  const [url, setUrl] = useState('')
+
+  useEffect(() => {
+    document.title = `[Webmail Demo] ${url
+      .split('/')
+      .filter(str => str && !/\d/.test(str))
+      .map(str => str[0].toUpperCase() + str.slice(1))
+      .join(' → ')}`
+  }, [url])
 
   return (
     <div id='app'>
