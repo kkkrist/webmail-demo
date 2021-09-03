@@ -37,8 +37,8 @@ const DisplayMessage = ({ isChild, isParent, folderName, message: m, url }) => {
 
   return (
     <div
-      class={`bg-white border m-6 p-6 rounded shadow-lg ${
-        m.isTransitioning ? 'opacity-60' : ''
+      class={`bg-white p-6 sm:(border m-6 rounded shadow-lg)${
+        m.isTransitioning ? ' opacity-60' : ''
       }`}
       ref={!isChild && !isParent && msgRef}
       style={{ scrollMargin: 60 }}
