@@ -96,13 +96,13 @@ const DisplayMessage = ({ isChild, isParent, folderName, message: m, url }) => {
           }
         >
           <div
-            class='editor leading-relaxed mt-4'
+            class='editor mt-4'
             dangerouslySetInnerHTML={{ __html: m.body }} // eslint-disable-line
           />
         </a>
       ) : (
         <div
-          class='editor leading-relaxed mt-4'
+          class='editor mt-4'
           dangerouslySetInnerHTML={{ __html: m.body }} // eslint-disable-line
         />
       )}
