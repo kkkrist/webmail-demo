@@ -1,9 +1,9 @@
 # email-ui-pc
 
-html: 2,0
-main bundle: 28,0
-main css: 2,0
-mail route: 9,1
+- html: 2,0kb
+- main bundle: 28,0kb
+- main css: 2,0kb
+- mail route: 9,1kb
 
 ## Deps
 
